@@ -3,12 +3,20 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
-### Step 4: 
-### Step 5: 
+### Step 1:
+Get the two list forom the user
+
+### Step 2:
+import the math module
+
+### Step 3:
+Substitute the values in the distance formula formula
+
+### Step 4:
+print the value useing the format function
+
+### Step 5:
+Stop the program 
 ### PROGRAM:
 ~~~
 import numpy as np
